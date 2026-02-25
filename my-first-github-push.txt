@@ -1,0 +1,7 @@
+create repository
+clone repository(git clone repository)
+enter into your folder
+creat a file
+git add ./ my-first-github-push.txt
+git commit -m "i open a new file"
+push the file to github
